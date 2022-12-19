@@ -1,0 +1,42 @@
+[
+{
+	"id":"1",
+	"firstName":"Girish",
+	"lastName":"Mishra",
+	"email":"girish@gmail.com",
+	"gender":"MALE",
+	"newJoiner":"TRUE"
+},
+{
+	"id":"2",
+	"firstName":"Manish",
+	"lastName":"Mishra",
+	"email":"manish@gmail.com",
+	"gender":"MALE",
+	"newJoiner":"FALSE"
+},
+{
+	"id":"3",
+	"firstName":"Vineet",
+	"lastName":"Mishra",
+	"email":"vineet@gmail.com",
+	"gender":"MALE",
+	"newJoiner":"TRUE"
+},
+{
+	"id":"4",
+	"firstName":"Kavita",
+	"lastName":"Mishra",
+	"email":"kavita@gmail.com",
+	"gender":"FEMALE",
+	"newJoiner":"TRUE"
+},
+{
+	"id":"5",
+	"firstName":"Amit",
+	"lastName":"Mishra",
+	"email":"amit@gmail.com",
+	"gender":"MALE",
+	"newJoiner":"TRUE"
+}
+]

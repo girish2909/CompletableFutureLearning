@@ -1,0 +1,12 @@
+server:
+  port: 9191
+
+spring:
+  h2:
+    console:
+      enabled: true
+
+# you can provide property for h2-console connection url detail
+# using spring.datasource.url = jdbc:h2:mem:testdb
+# by default in console you will get url of it, Like :
+# HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:4d4b5c73-fd8d-45c2-8a33-4bad9c790ab0 user=SA
