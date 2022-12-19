@@ -23,9 +23,7 @@ public class RunAsyncExample {
 			@Override
 			public void run() {
 				try {
-
-					List<
-							Employee> employees = objectMapper.readValue(jsonFile, new TypeReference<List<Employee>>() {
+					List<Employee> employees = objectMapper.readValue(jsonFile, new TypeReference<List<Employee>>() {
 					});
 					// write logic to save list of employee to database
 					// repository.saveAll();
